@@ -15,7 +15,7 @@ class Test {
         double noOfCubicalBox = cuboidVol / cubicalVol ;
 
        
-        System.out.println("vol of cubical box :"+ cubicalVol);
+        System.out.println("vol of cubical box :"+ cubicalVol +"cm^3");
         System.out.println("vol of cuboidal  cartoon :"+ cuboidVol);
         System.out.println("no. of cubical box :"+noOfCubicalBox);
     }
