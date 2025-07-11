@@ -131,3 +131,6 @@ if (age >= 18) {
     System.out.println("Adult");
 } else if (age >= 13) {
     System.out.println
+<<<<<<< HEAD
+=======
+
